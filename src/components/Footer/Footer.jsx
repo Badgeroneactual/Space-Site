@@ -74,7 +74,7 @@ const Footer = () => {
               <div className="space-y-3">
                 <div className="flex items-center gap-2">
                   <HiLocationMarker />
-                  <p>Noida, Uttar Pradesh</p>
+                  <p>Kevin Womack Fort Worth, TX</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <MdMessage />
@@ -82,7 +82,7 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <MdCall />
-                  <p>+91 123456789</p>
+                  <p>123-456-7890</p>
                 </div>
               </div>
             </div>
