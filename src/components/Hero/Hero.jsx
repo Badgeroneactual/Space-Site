@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="container grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="space-y-4 lg:pr-36">
             <h1 data-aos="fade-up" className="text-5xl font-bold uppercase">
-              Orbite The Earth
+              Orbit The Earth
             </h1>
             <p data-aos="fade-up" data-aos-delay="300">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam ea
